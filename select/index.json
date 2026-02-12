@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "いちょう",
+  "base_artist": "Yusuke",
+  "createdAt": "2026-02-12T12:41:37.039633Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いちょう",
+      "artist": "Yusuke",
+      "has_synced": true,
+      "path": "select/01_いちょう_Yusuke.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いちょう",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_01_いちょう_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "いちょう",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_02_いちょう_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "いちょう",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_03_いちょう_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "いちょう",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_04_いちょう_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "いちょう",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_05_いちょう_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "いちょう",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_06_いちょう_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "いちょう",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_07_いちょう_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "いちょう",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_08_いちょう_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "いちょう",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_09_いちょう_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "いちょう",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_10_いちょう_遊助.txt"
+    }
+  ]
+}
